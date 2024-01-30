@@ -1,2 +1,2 @@
 # MyProject1
-this is my git reopsitory
+This is project 1 Background Color Changer
